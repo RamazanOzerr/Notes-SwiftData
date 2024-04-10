@@ -18,6 +18,8 @@ Notes App is a simple iOS application built with SwiftUI and SwiftData for manag
 <img width="373" alt="Screenshot 2024-04-10 at 13 01 30" src="https://github.com/RamazanOzerr/Notes-SwiftData/assets/96844411/ff6fc5b1-6ba5-44bc-89c9-8cc6bb7b8566">
 <img width="375" alt="Screenshot 2024-04-10 at 13 01 21" src="https://github.com/RamazanOzerr/Notes-SwiftData/assets/96844411/d0a8f50b-8256-4afd-81d3-b190fc855f21">
 
+## youtube
+https://youtu.be/6RIXfAMvklc
 
 ## Installation
 
